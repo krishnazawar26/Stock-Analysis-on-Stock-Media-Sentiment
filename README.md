@@ -4,6 +4,7 @@
 
 This project develops a machine learning model that predicts stock movements by analyzing social media sentiment, specifically using Reddit as the primary data source. The system leverage natural language processing and machine learning techniques to extract insights from user-generated content related to stock market discussions.
 
+The aim of this project is to use Python, SQL, and Excel to analyze sales data and generate meaningful reports for a retail chain. 
 ## Features
 
 - 🌐 Reddit Data Scraping
